@@ -9,7 +9,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
-/**
+/** premiere version
  * @author Walid-YAICH
  * 
  * URL utiles :
@@ -17,7 +17,7 @@ import org.json.JSONObject;
  * https://jsonformatter.curiousconcept.com/
  * 
  *
- */
+ */git add
 
 public class CallRestWebService {
 
